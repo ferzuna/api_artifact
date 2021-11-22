@@ -1,0 +1,87 @@
+{
+    "artifact":[
+        {
+            "id": 1,
+            "name": "Archaic Petra",
+            "max_rarity": 5,
+            "2-piece_bonus": "Gain a 15% Geo DMG Bonus.",
+            "4-piece_bonus": "Upon obtaining an Elemental Shard created through a Crystallize Reaction, all party members gain a 35% DMG Bonus for that particular element for 10s. Only one form of Elemental DMG Bonus can be gained in this manner at any one time.",
+            "images":"assets/artifact/arhaic.png"
+        },
+        {
+            "id": 2,
+            "name": "Blizzard Strayer",
+            "max_rarity": 5,
+            "2-piece_bonus": "Cryo DMG Bonus +15%",
+            "4-piece_bonus": "When a character attacks an enemy affected by Cryo, their CRIT Rate is increased by 20%. If the enemy is Frozen, CRIT Rate is increased by an additional 20%.",
+            "images":"assets/artifact/blizzard.png"
+        },
+        {
+            "id": 3,
+            "name": "Bloodstained Chivalry",
+            "max_rarity": 5,
+            "2-piece_bonus": "Physical DMG +25%",
+            "4-piece_bonus": "After defeating an opponent, increases Charged Attack DMG by 50%, and reduces its Stamina cost to 0 for 10s.",
+            "images": "assets/artifact/bloodstainded.png"        
+        },
+        {
+            "id": 4,
+            "name": "Crimson Witch of Flames",
+            "max_rarity": 5,
+            "2-piece_bonus": "Gain a 15% Pyro DMG Bonus.",
+            "4-piece_bonus": "Increases Overloaded and Burning DMG by 40%. Increases Vaporize and Melt DMG by 15%. Using an Elemental Skill increases 2-Piece Set effects by 50% for 10s. Max 3 stacks.",
+            "images": "assets/artifact/crimson.png"
+        },
+        {
+            "id": 5,
+            "name": "Emblem Of Severed Fate",
+            "max_rarity": 5,
+            "2-piece_bonus": "Energy Recharge + 20%",
+            "4-piece_bonus": "Increases Elemental Burst DMG by 25% of Energy Recharge. A maximum of 75% bonus DMG can be obtained in this way.",
+            "images": "assets/artifact/emblem.png"
+        },
+        {
+            "id": 6,
+            "name": "Heart of Depth",
+            "max_rarity": 5,
+            "2-piece_bonus": "Hydro DMG Bonus +15%",
+            "4-piece_bonus": "After using Elemental Skill, increases Normal Attack and Charged Attack DMG by 30% for 15s.",
+            "images": "assets/artifact/hod.png"        
+        },
+        {
+            "id": 7,
+            "name": "Maiden Beloved",
+            "max_rarity": 5,
+            "2-piece_bonus": "Character Healing Effectiveness +15%",
+            "4-piece_bonus": "Using an Elemental Skill or Burst increases healing received by all party members by 20% for 10s.",
+            "images": "assets/artifact/maiden.png"        
+        },
+        {
+            "id": 8,
+            "name": "Noblesse Oblige",
+            "max_rarity": 5,
+            "2-piece_bonus": "Elemental Burst DMG +20%",
+            "4-piece_bonus": "Using an Elemental Burst increase all party members' ATK by 20% for 12s. This effect cannot stack.",
+            "description": "Her Excellency, the Almighty, Narukami Ogosho, who promised the people of Inazuma an unchanging Eternity.",
+            "images": "assets/artifact/noblesse.png"        
+        },
+        {
+            "id": 9,
+            "name": "Thundering Fury",
+            "max_rarity": 5,
+            "2-piece_bonus": "Gain a 15% Electro DMG Bonus.",
+            "4-piece_bonus": "Increases damage caused by Overloaded, Electro-Charged, and Superconduct DMG by 40%. Triggering such effects decreases Elemental Skill CD by 1s. Can only occur once every 0.8s.",
+            "images": "assets/artifact/thundering.png"
+        },
+        {
+            "id": 10,
+            "name": "Viridescent Venerer",
+            "max_rarity": 5,
+            "2-piece_bonus": "Gain a 15% Anemo DMG Bonus.",
+            "4-piece_bonus": "Increases Swirl DMG by 60%. Decreases opponent's Elemental RES to the element infused in the Swirl by 40% for 10s.",
+            "images": "assets/artifact/viri.png"
+
+        }
+
+    ]
+}
